@@ -1,7 +1,7 @@
 # STM32F411RET6 Development Board
 This code repository will contain all the codes which I will be making on my custom STM32F411RET6 Development Board.
 
-Link to my Youtube Channel Markup :  [Nouman Ali](https://www.youtube.com/c/NoumanAli)
+Link to my Youtube Channel: [Nouman Ali](https://www.youtube.com/c/NoumanAli)
 
 Following is the list of all the videos or codes and their corresponding links to YouTube Video
-Markup : * **[Project Idea](https://youtu.be/I_Z9-FQaizw)** 
+* **[Project Idea](https://youtu.be/I_Z9-FQaizw)** 
