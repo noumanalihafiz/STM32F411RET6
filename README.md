@@ -19,3 +19,9 @@ Following is the list of all the videos or codes and their corresponding links t
 * **Tutorials**
   * **Tutorial 1** *LED Blink*
     * https://youtu.be/Jv1XRuA9SMc
+  * **Tutorial 2** *Button Input and Relay Driving*
+    * https://youtu.be/O_ITab0AKwc
+  * **Tutorial 3** *Buttin Interrupts (EXTI)*
+    * https://youtu.be/u_H3pfVAJKQ
+  * **Tutorial 4** *16x2 LCD*
+    * https://youtu.be/IJuZW8dt_TI
