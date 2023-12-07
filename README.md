@@ -25,3 +25,7 @@ Following is the list of all the videos or codes and their corresponding links t
     * https://youtu.be/u_H3pfVAJKQ
   * **Tutorial 4** *16x2 LCD*
     * https://youtu.be/IJuZW8dt_TI
+  * **Tutorial 5** *UART*
+    * https://youtu.be/nnfP0laQRRk
+  * **Tutorial 6** *EEPROM*
+    * https://youtu.be/upQYWSpCI-A
