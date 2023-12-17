@@ -29,3 +29,5 @@ Following is the list of all the videos or codes and their corresponding links t
     * https://youtu.be/nnfP0laQRRk
   * **Tutorial 6** *EEPROM*
     * https://youtu.be/upQYWSpCI-A
+  * **Tutorial 7** *ADC (Single Channel)*
+    * https://youtu.be/tY_W7blRajA
