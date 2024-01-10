@@ -31,3 +31,5 @@ Following is the list of all the videos or codes and their corresponding links t
     * https://youtu.be/upQYWSpCI-A
   * **Tutorial 7** *ADC (Single Channel)*
     * https://youtu.be/tY_W7blRajA
+  * **Tutorial 8** *DHT22 Temp & Humidity Sensor*
+    * https://youtu.be/fevsEQaRn_4
