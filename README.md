@@ -1,5 +1,10 @@
 # STM32F411RET6 Development Board
-This code repository will contain all the codes which I will be making on my custom STM32F411RET6 Development Board.
+
+This custom development board is a versatile platform tailored for embedded systems learning and experimentation. Built around the powerful STM32F411RET6 microcontroller, it provides an ideal environment for hands-on exploration of various electronic components and peripherals.
+
+The board is meticulously designed to offer a comprehensive learning experience, featuring an array of on-board components. Relays enable control over external devices, while a potentiometer facilitates analog-to-digital conversion (ADC) studies. Operational amplifiers (Op-Amps) offer opportunities to delve into analog signal processing, while UART and RS485 interfaces provide robust serial communication capabilities. For data storage and retrieval, an SD card slot and EEPROM memory are included. Additionally, an ACS712 current sensor allows for precise measurement and monitoring of electrical current.
+
+This development board serves as an invaluable tool for students, hobbyists, and engineers to solidify their understanding of microcontroller programming, hardware interfacing, and embedded system design.
 
 Link to my Youtube Channel: [Nouman Ali](https://www.youtube.com/c/NoumanAli)
 
